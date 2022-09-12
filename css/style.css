@@ -1,0 +1,194 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f7fa;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: Montserrat;
+}
+.contalner {
+    background-color: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-foto {
+    width: 370px;  
+}
+.Contacts {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.Contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.line-tyde {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.tel {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#434c5a;
+}
+.Tech-Skills {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.Tech-Skills-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.Tech-Skills-text {
+    color: #d6d8db;
+}
+.Tech-Skills-line {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 15px;
+    }
+
+.Soft-Skills {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.Soft-Skills-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;    
+}
+.Soft-Skills-line {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 15px;
+}
+.Soft-Skills-text {
+    color: #d6d8db;
+}
+.about-me-contalner {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.me-main-info {
+    margin-bottom: 45px;
+}
+.Front-End-Developer {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+}
+.Projects-contalner {
+    margin-bottom: 50px;
+}
+.about-me {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.Projects-line {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+.texno {
+   color: #595959;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;
+}
+.dots{
+    color: #bebebe;
+    font-weight: 100;  
+}
+.Projects-ayt {
+    font-weight: 700;
+    margin-left: 17px;
+}
+.Work-Experience {
+    margin-bottom: 55px;
+}
+.namy-info {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.namy-it{
+    color: #ff6b08;  
+}
+.time-work {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+} 
+.pots {
+    color: #000000;
+}
+.work-info {
+    margin-top: 14px;
+    margin-bottom: 25px;
+}
+.work-info-in {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.Management {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
